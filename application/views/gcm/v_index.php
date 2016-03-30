@@ -41,7 +41,7 @@
                                 
                             </div>
                             <div class="form-top-right">
-                                <i class="fa fa-key"></i>
+                                <i class="fa fa-cloud-upload"></i>
                             </div>
                         </div>
 
